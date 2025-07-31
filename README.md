@@ -8,4 +8,4 @@ Steps:
 7. Type the required code to execute the app
 8. Open blue stacks to run the app
 9. Press a to run expo go in bluestacks
-10. 
+10. ![image alt](https://github.com/ST10485005/ICE1-BlankApp-MG./blob/388185098e1afd779ba2d5c9b8c54d2d24bb976b/Screenshot%202025-07-31%20at%2010.49.52.png)
